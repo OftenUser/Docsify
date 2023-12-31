@@ -8,5 +8,7 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+<!-- [GitHub](https://github.com/docsifyjs/docsify/) -->
+<a href="https://github.com/docsifyjs/docsify/" target="_blank" title="GitHub">GitHub</a>
+<!-- [Getting Started](#docsify) -->
+<a href="#docsify" target="_blank" title="Getting Started">Getting Started</a>
