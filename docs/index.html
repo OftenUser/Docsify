@@ -9,8 +9,8 @@
     <meta name="description" content="A magical documentation generator." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" title="Vue" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" title="dark" disabled />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css" title="buble" disabled />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css" title="Dark" disabled />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css" title="Buble" disabled />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css" title="Pure" disabled />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css" title="Dolphin" disabled />
     <style>
@@ -103,7 +103,7 @@
         },
         vueComponents: {
           'button-counter': {
-            template: /* html */ `<button @click="count += 1">You Clicked Me {{ count }} Times</button>`,
+            template: /* html */ `<button @click="count += 1" title="{{ count }} Clicks">You Clicked Me {{ count }} Times</button>`,
             data() {
               return {
                 count: 0,
