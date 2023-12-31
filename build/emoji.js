@@ -19,10 +19,8 @@ async function getEmojiData() {
   console.info(`- Fetching emoji data from ${emojiDataURL}`);
 
   const response = await axios.get(emojiDataURL);
-  const baseURL = Object.values(response.data)
-    .find(url => /unicode\//)
-    .split('unicode/')[0];
-  const data = { ...response.data };
+  const baseURL = Object.values(response.data).find(url => /unicode\//).split('unicode/')[0];
+  const data = {...response.data};
 
   // Remove base URL from emoji URLs
   Object.entries(data).forEach(
@@ -39,6 +37,7 @@ async function getEmojiData() {
 
 function writeEmojiPage(emojiData) {
   const isExistingPage = fs.existsSync(filePaths.emojiMarkdown);
+  
   const emojiPage =
     (isExistingPage && fs.readFileSync(filePaths.emojiMarkdown, 'utf8')) ||
     `<!-- START -->\n\n<!-- END -->`;
@@ -47,13 +46,12 @@ function writeEmojiPage(emojiData) {
   const emojiMarkdownStart = emojiMatch[1].trim();
   const emojiMarkdown = emojiMatch[2].trim();
   const emojiMarkdownEnd = emojiMatch[3].trim();
-  const newEmojiMarkdown = Object.keys(emojiData.data)
-    .reduce(
+  
+  const newEmojiMarkdown = Object.keys(emojiData.data).reduce(
       (preVal, curVal) =>
         (preVal += `:${curVal}: ` + '`' + `:${curVal}:` + '`' + '\n\n'),
       ''
-    )
-    .trim();
+    ).trim();
 
   if (emojiMarkdown !== newEmojiMarkdown) {
     const newEmojiPage = emojiPage.replace(
@@ -74,6 +72,7 @@ function writeEmojiPage(emojiData) {
 function writeEmojiJS(emojiData) {
   const isExistingPage = fs.existsSync(filePaths.emojiJS);
   const emojiJS = isExistingPage && fs.readFileSync(filePaths.emojiJS, 'utf8');
+  
   const newEmojiJS = [
     '/* eslint-disable */\n',
     '// =============================================================================',
