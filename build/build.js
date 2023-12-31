@@ -1,12 +1,12 @@
 import path from 'path';
-import { promises as fs } from 'fs';
+import {promises as fs} from 'fs';
 import * as rollup from 'rollup';
 import commonjs from '@rollup/plugin-commonjs';
 import nodeResolve from '@rollup/plugin-node-resolve';
 import uglify from '@rollup/plugin-terser';
 import replace from '@rollup/plugin-replace';
 import chokidar from 'chokidar';
-import { relative } from './util.js';
+import {relative} from './util.js';
 
 const pkgPath = relative(import.meta, '..', 'package.json');
 const pkgString = (await fs.readFile(pkgPath)).toString();
@@ -23,8 +23,7 @@ const version = process.env.VERSION || pkg.version;
  * }} opts
  */
 async function build(opts) {
-  await rollup
-    .rollup({
+  await rollup.rollup({
       input: opts.input,
       plugins: [
         ...(opts.plugins || []),
@@ -40,12 +39,11 @@ async function build(opts) {
             `Could not resolve module ` +
               message.source +
               `. Try running 'npm install' or using rollup's 'external' option if this is an external dependency. ` +
-              `Module ${message.source} is imported in ${message.importer}`
+              `Module ${message.source} is imported in ${message.importer}.`
           );
         }
       },
-    })
-    .then(bundle => {
+    }).then(bundle => {
       const dest = 'lib/' + (opts.output || opts.input);
 
       console.log(dest);
@@ -83,22 +81,22 @@ async function buildCore() {
 
 async function buildAllPlugin() {
   const plugins = [
-    { name: 'search', input: 'search/index.js' },
-    { name: 'ga', input: 'ga.js' },
-    { name: 'gtag', input: 'gtag.js' },
-    { name: 'matomo', input: 'matomo.js' },
-    { name: 'emoji', input: 'emoji.js' },
-    { name: 'external-script', input: 'external-script.js' },
-    { name: 'front-matter', input: 'front-matter/index.js' },
-    { name: 'zoom-image', input: 'zoom-image.js' },
-    { name: 'disqus', input: 'disqus.js' },
-    { name: 'gitalk', input: 'gitalk.js' },
+    {name: 'search', input: 'search/index.js'},
+    {name: 'ga', input: 'ga.js'},
+    {name: 'gtag', input: 'gtag.js'},
+    {name: 'matomo', input: 'matomo.js'},
+    {name: 'emoji', input: 'emoji.js'},
+    {name: 'external-script', input: 'external-script.js'},
+    {name: 'front-matter', input: 'front-matter/index.js'},
+    {name: 'zoom-image', input: 'zoom-image.js'},
+    {name: 'disqus', input: 'disqus.js'},
+    {name: 'gitalk', input: 'gitalk.js'},
   ];
 
   const promises = plugins.map(item => {
     return build({
       input: 'src/plugins/' + item.input,
-      output: 'plugins/' + item.name + '.js',
+      output: 'plugins/' + item.name + '.js'
     });
   });
 
@@ -119,15 +117,13 @@ async function buildAllPlugin() {
 
 async function main() {
   if (!isProd) {
-    chokidar
-      .watch(['src/core', 'src/plugins'], {
+    chokidar.watch(['src/core', 'src/plugins'], {
         atomic: true,
         awaitWriteFinish: {
           stabilityThreshold: 1000,
           pollInterval: 100,
         },
-      })
-      .on('change', p => {
+      }).on('change', p => {
         console.log('[watch] ', p);
         const dirs = p.split(path.sep);
         if (dirs[1] === 'core') {
@@ -143,8 +139,7 @@ async function main() {
             output: 'plugins/' + name + '.js',
           });
         }
-      })
-      .on('ready', () => {
+      }).on('ready', () => {
         console.log('[start]');
         buildCore();
         buildAllPlugin();
