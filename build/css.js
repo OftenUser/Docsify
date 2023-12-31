@@ -1,14 +1,16 @@
 import fs from 'fs';
 import path from 'path';
-import { spawn } from 'child_process';
+import {spawn} from 'child_process';
 
 const relative = path => new URL(path, import.meta.url);
 const args = process.argv.slice(2);
+
 fs.readdir(relative('../src/themes'), (err, files) => {
   if (err) {
     console.error('err', err);
     process.exit(1);
   }
+  
   files.map(async file => {
     if (/\.styl/g.test(file)) {
       const stylusBin = ['node_modules', 'stylus', 'bin', 'stylus'].join(
@@ -39,6 +41,7 @@ fs.readdir(relative('../src/themes'), (err, files) => {
           console.error(message);
           process.exit(code);
         }
+        
         console.log(message);
       });
     } else {
