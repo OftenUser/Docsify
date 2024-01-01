@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docsify.js.org" target="_blank" title="Docsify">
-    <img alt="Docsify" src="./docs/_media/icon.svg">
+    <img src="./docs/_media/icon.svg" alt="Docsify">
   </a>
 </p>
 
@@ -83,4 +83,4 @@ This project exists thanks to all the people who contribute.  <!-- [[Contribute]
 
 ## Special Thanks
 
-A preview of Docsify's PR and develop branch is <a href="https://vercel.com/?utm_source=docsifyjs&utm_campaign=oss" target="_blank" title="Powered By Vercel">Powered By <img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" alt="Vercel" width="133px"></a>
+A preview of Docsify's PR and develop branch is <a href="https://vercel.com/?utm_source=docsifyjs&utm_campaign=oss" target="_blank" title="Powered By Vercel">Powered By <img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="133px" alt="Vercel"></a>
