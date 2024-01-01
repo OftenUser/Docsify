@@ -1,7 +1,7 @@
 <!-- Historical history file (do not edit). -->
 
 <a name="3.7.3"></a>
-## [3.7.3](https://github.com/QingWei-Li/docsify/compare/v3.7.2...v3.7.3) (2017-05-22)
+## [3.7.3](https://github.com/QingWei-Li/docsify/compare/v3.7.2...v3.7.3) (May 22, 2017)
 
 
 ### Bug Fixes
@@ -11,12 +11,12 @@
 
 
 <a name="3.7.2"></a>
-## [3.7.2](https://github.com/QingWei-Li/docsify/compare/v3.7.1...v3.7.2) (2017-05-19)
+## [3.7.2](https://github.com/QingWei-Li/docsify/compare/v3.7.1...v3.7.2) (May 19, 2017)
 
 
 
 <a name="3.7.1"></a>
-## [3.7.1](https://github.com/QingWei-Li/docsify/compare/v3.7.0...v3.7.1) (2017-05-19)
+## [3.7.1](https://github.com/QingWei-Li/docsify/compare/v3.7.0...v3.7.1) (May 19, 2017)
 
 
 ### Bug Fixes
@@ -26,7 +26,7 @@
 
 
 <a name="3.7.0"></a>
-# [3.7.0](https://github.com/QingWei-Li/docsify/compare/v3.6.6...v3.7.0) (2017-05-16)
+# [3.7.0](https://github.com/QingWei-Li/docsify/compare/v3.6.6...v3.7.0) (May 16, 2017)
 
 
 ### Features
@@ -37,7 +37,7 @@
 
 
 <a name="3.6.6"></a>
-## [3.6.6](https://github.com/QingWei-Li/docsify/compare/v3.6.5...v3.6.6) (2017-05-06)
+## [3.6.6](https://github.com/QingWei-Li/docsify/compare/v3.6.5...v3.6.6) (May 6, 2017)
 
 
 ### Features
@@ -47,7 +47,7 @@
 
 
 <a name="3.6.5"></a>
-## [3.6.5](https://github.com/QingWei-Li/docsify/compare/v3.6.4...v3.6.5) (2017-04-28)
+## [3.6.5](https://github.com/QingWei-Li/docsify/compare/v3.6.4...v3.6.5) (April 28, 2017)
 
 
 ### Bug Fixes
@@ -57,7 +57,7 @@
 
 
 <a name="3.6.4"></a>
-## [3.6.4](https://github.com/QingWei-Li/docsify/compare/v3.6.3...v3.6.4) (2017-04-28)
+## [3.6.4](https://github.com/QingWei-Li/docsify/compare/v3.6.3...v3.6.4) (April 28, 2017)
 
 
 ### Bug Fixes
@@ -67,7 +67,7 @@
 
 
 <a name="3.6.3"></a>
-## [3.6.3](https://github.com/QingWei-Li/docsify/compare/v3.6.2...v3.6.3) (2017-04-25)
+## [3.6.3](https://github.com/QingWei-Li/docsify/compare/v3.6.2...v3.6.3) (April 25, 2017)
 
 
 ### Bug Fixes
@@ -77,7 +77,7 @@
 
 
 <a name="3.6.2"></a>
-## [3.6.2](https://github.com/QingWei-Li/docsify/compare/v3.6.0...v3.6.2) (2017-04-12)
+## [3.6.2](https://github.com/QingWei-Li/docsify/compare/v3.6.0...v3.6.2) (April 12, 2017)
 
 
 ### Features
@@ -88,7 +88,7 @@
 
 
 <a name="3.6.0"></a>
-# [3.6.0](https://github.com/QingWei-Li/docsify/compare/v3.5.2...v3.6.0) (2017-04-09)
+# [3.6.0](https://github.com/QingWei-Li/docsify/compare/v3.5.2...v3.6.0) (April 9, 2017)
 
 
 ### Features
@@ -98,12 +98,12 @@
 
 
 <a name="3.5.2"></a>
-## [3.5.2](https://github.com/QingWei-Li/docsify/compare/v3.5.1...v3.5.2) (2017-04-05)
+## [3.5.2](https://github.com/QingWei-Li/docsify/compare/v3.5.1...v3.5.2) (April 5, 2017)
 
 
 
 <a name="3.5.1"></a>
-## [3.5.1](https://github.com/QingWei-Li/docsify/compare/v3.5.0...v3.5.1) (2017-03-25)
+## [3.5.1](https://github.com/QingWei-Li/docsify/compare/v3.5.0...v3.5.1) (March 25, 2017)
 
 
 ### Bug Fixes
@@ -113,7 +113,7 @@
 
 
 <a name="3.5.0"></a>
-# [3.5.0](https://github.com/QingWei-Li/docsify/compare/v3.4.4...v3.5.0) (2017-03-25)
+# [3.5.0](https://github.com/QingWei-Li/docsify/compare/v3.4.4...v3.5.0) (March 25, 2017)
 
 
 ### Bug Fixes
@@ -129,7 +129,7 @@
 
 
 <a name="3.4.4"></a>
-## [3.4.4](https://github.com/QingWei-Li/docsify/compare/v3.4.3...v3.4.4) (2017-03-17)
+## [3.4.4](https://github.com/QingWei-Li/docsify/compare/v3.4.3...v3.4.4) (March 17, 2017)
 
 
 ### Bug Fixes
@@ -139,12 +139,12 @@
 
 
 <a name="3.4.3"></a>
-## [3.4.3](https://github.com/QingWei-Li/docsify/compare/v3.4.2...v3.4.3) (2017-03-16)
+## [3.4.3](https://github.com/QingWei-Li/docsify/compare/v3.4.2...v3.4.3) (March 16, 2017)
 
 
 
 <a name="3.4.2"></a>
-## [3.4.2](https://github.com/QingWei-Li/docsify/compare/v3.4.1...v3.4.2) (2017-03-11)
+## [3.4.2](https://github.com/QingWei-Li/docsify/compare/v3.4.1...v3.4.2) (March 11, 2017)
 
 
 ### Features
@@ -154,7 +154,7 @@
 
 
 <a name="3.4.1"></a>
-## [3.4.1](https://github.com/QingWei-Li/docsify/compare/v3.4.0...v3.4.1) (2017-03-10)
+## [3.4.1](https://github.com/QingWei-Li/docsify/compare/v3.4.0...v3.4.1) (March 10, 2017)
 
 
 ### Bug Fixes
@@ -164,7 +164,7 @@
 
 
 <a name="3.4.0"></a>
-# [3.4.0](https://github.com/QingWei-Li/docsify/compare/v3.3.0...v3.4.0) (2017-03-09)
+# [3.4.0](https://github.com/QingWei-Li/docsify/compare/v3.3.0...v3.4.0) (March 9, 2017)
 
 
 ### Features
@@ -174,12 +174,12 @@
 
 
 <a name="3.3.0"></a>
-# [3.3.0](https://github.com/QingWei-Li/docsify/compare/v3.2.0...v3.3.0) (2017-03-07)
+# [3.3.0](https://github.com/QingWei-Li/docsify/compare/v3.2.0...v3.3.0) (March 7, 2017)
 
 
 
 <a name="3.2.0"></a>
-# [3.2.0](https://github.com/QingWei-Li/docsify/compare/v3.1.2...v3.2.0) (2017-02-28)
+# [3.2.0](https://github.com/QingWei-Li/docsify/compare/v3.1.2...v3.2.0) (February 28, 2017)
 
 
 ### Bug Fixes
@@ -195,12 +195,12 @@
 
 
 <a name="3.1.2"></a>
-## [3.1.2](https://github.com/QingWei-Li/docsify/compare/v3.1.1...v3.1.2) (2017-02-27)
+## [3.1.2](https://github.com/QingWei-Li/docsify/compare/v3.1.1...v3.1.2) (February 27, 2017)
 
 
 
 <a name="3.1.1"></a>
-## [3.1.1](https://github.com/QingWei-Li/docsify/compare/v3.1.0...v3.1.1) (2017-02-24)
+## [3.1.1](https://github.com/QingWei-Li/docsify/compare/v3.1.0...v3.1.1) (February 24, 2017)
 
 
 ### Bug Fixes
@@ -212,7 +212,7 @@
 
 
 <a name="3.1.0"></a>
-# [3.1.0](https://github.com/QingWei-Li/docsify/compare/v3.0.5...v3.1.0) (2017-02-22)
+# [3.1.0](https://github.com/QingWei-Li/docsify/compare/v3.0.5...v3.1.0) (February 22, 2017)
 
 
 ### Bug Fixes
@@ -228,7 +228,7 @@
 
 
 <a name="3.0.5"></a>
-## [3.0.5](https://github.com/QingWei-Li/docsify/compare/v3.0.4...v3.0.5) (2017-02-21)
+## [3.0.5](https://github.com/QingWei-Li/docsify/compare/v3.0.4...v3.0.5) (February 21, 2017)
 
 
 ### Bug Fixes
@@ -245,7 +245,7 @@
 
 
 <a name="3.0.4"></a>
-## [3.0.4](https://github.com/QingWei-Li/docsify/compare/v3.0.3...v3.0.4) (2017-02-20)
+## [3.0.4](https://github.com/QingWei-Li/docsify/compare/v3.0.3...v3.0.4) (February 20, 2017)
 
 
 ### Bug Fixes
@@ -256,12 +256,12 @@
 
 
 <a name="3.0.3"></a>
-## [3.0.3](https://github.com/QingWei-Li/docsify/compare/v3.0.2...v3.0.3) (2017-02-19)
+## [3.0.3](https://github.com/QingWei-Li/docsify/compare/v3.0.2...v3.0.3) (February 19, 2017)
 
 
 
 <a name="3.0.2"></a>
-## [3.0.2](https://github.com/QingWei-Li/docsify/compare/v3.0.1...v3.0.2) (2017-02-19)
+## [3.0.2](https://github.com/QingWei-Li/docsify/compare/v3.0.1...v3.0.2) (February 19, 2017)
 
 
 ### Bug Fixes
@@ -272,7 +272,7 @@
 
 
 <a name="3.0.1"></a>
-## [3.0.1](https://github.com/QingWei-Li/docsify/compare/v3.0.0...v3.0.1) (2017-02-19)
+## [3.0.1](https://github.com/QingWei-Li/docsify/compare/v3.0.0...v3.0.1) (February 19, 2017)
 
 
 ### Bug Fixes
@@ -282,7 +282,7 @@
 
 
 <a name="3.0.0"></a>
-# [3.0.0](https://github.com/QingWei-Li/docsify/compare/v2.4.3...v3.0.0) (2017-02-19)
+# [3.0.0](https://github.com/QingWei-Li/docsify/compare/v2.4.3...v3.0.0) (February 19, 2017)
 
 
 ### Bug Fixes
@@ -303,12 +303,12 @@
 
 
 <a name="2.4.3"></a>
-## [2.4.3](https://github.com/QingWei-Li/docsify/compare/v2.4.2...v2.4.3) (2017-02-15)
+## [2.4.3](https://github.com/QingWei-Li/docsify/compare/v2.4.2...v2.4.3) (February 15, 2017)
 
 
 
 <a name="2.4.2"></a>
-## [2.4.2](https://github.com/QingWei-Li/docsify/compare/v2.4.1...v2.4.2) (2017-02-14)
+## [2.4.2](https://github.com/QingWei-Li/docsify/compare/v2.4.1...v2.4.2) (February 14, 2017)
 
 
 ### Bug Fixes
@@ -318,7 +318,7 @@
 
 
 <a name="2.4.1"></a>
-## [2.4.1](https://github.com/QingWei-Li/docsify/compare/v2.4.0...v2.4.1) (2017-02-13)
+## [2.4.1](https://github.com/QingWei-Li/docsify/compare/v2.4.0...v2.4.1) (February 13, 2017)
 
 
 ### Bug Fixes
@@ -328,7 +328,7 @@
 
 
 <a name="2.4.0"></a>
-# [2.4.0](https://github.com/QingWei-Li/docsify/compare/v2.3.0...v2.4.0) (2017-02-13)
+# [2.4.0](https://github.com/QingWei-Li/docsify/compare/v2.3.0...v2.4.0) (February 13, 2017)
 
 
 ### Features
@@ -338,7 +338,7 @@
 
 
 <a name="2.3.0"></a>
-# [2.3.0](https://github.com/QingWei-Li/docsify/compare/v2.2.1...v2.3.0) (2017-02-13)
+# [2.3.0](https://github.com/QingWei-Li/docsify/compare/v2.2.1...v2.3.0) (February 13, 2017)
 
 
 ### Bug Fixes
@@ -364,7 +364,7 @@
 
 
 <a name="2.2.1"></a>
-## [2.2.1](https://github.com/QingWei-Li/docsify/compare/v2.2.0...v2.2.1) (2017-02-11)
+## [2.2.1](https://github.com/QingWei-Li/docsify/compare/v2.2.0...v2.2.1) (February 11, 2017)
 
 
 ### Bug Fixes
@@ -376,7 +376,7 @@
 
 
 <a name="2.2.0"></a>
-# [2.2.0](https://github.com/QingWei-Li/docsify/compare/v2.1.0...v2.2.0) (2017-02-09)
+# [2.2.0](https://github.com/QingWei-Li/docsify/compare/v2.1.0...v2.2.0) (February 9, 2017)
 
 
 ### Features
@@ -386,7 +386,7 @@
 
 
 <a name="2.1.0"></a>
-# [2.1.0](https://github.com/QingWei-Li/docsify/compare/v2.0.3...v2.1.0) (2017-02-09)
+# [2.1.0](https://github.com/QingWei-Li/docsify/compare/v2.0.3...v2.1.0) (February 9, 2017)
 
 
 ### Bug Fixes
@@ -402,19 +402,19 @@
 
 
 <a name="2.0.3"></a>
-## [2.0.3](https://github.com/QingWei-Li/docsify/compare/v2.0.2...v2.0.3) (2017-02-07)
+## [2.0.3](https://github.com/QingWei-Li/docsify/compare/v2.0.2...v2.0.3) (February 7, 2017)
 
 
 ### Bug Fixes
 
-* css var polyfill ([8cd386a](https://github.com/QingWei-Li/docsify/commit/8cd386a))
-* css var polyfill ([cbaee21](https://github.com/QingWei-Li/docsify/commit/cbaee21))
+* CSS var polyfill ([8cd386a](https://github.com/QingWei-Li/docsify/commit/8cd386a))
+* CSS var polyfill ([cbaee21](https://github.com/QingWei-Li/docsify/commit/cbaee21))
 * rendering emojis ([8c7e4d7](https://github.com/QingWei-Li/docsify/commit/8c7e4d7))
 
 
 
 <a name="2.0.2"></a>
-## [2.0.2](https://github.com/QingWei-Li/docsify/compare/v2.0.1...v2.0.2) (2017-02-05)
+## [2.0.2](https://github.com/QingWei-Li/docsify/compare/v2.0.1...v2.0.2) (February 5, 2017)
 
 
 ### Bug Fixes
@@ -424,12 +424,12 @@
 
 
 <a name="2.0.1"></a>
-## [2.0.1](https://github.com/QingWei-Li/docsify/compare/v2.0.0...v2.0.1) (2017-02-05)
+## [2.0.1](https://github.com/QingWei-Li/docsify/compare/v2.0.0...v2.0.1) (February 5, 2017)
 
 
 
 <a name="2.0.0"></a>
-# [2.0.0](https://github.com/QingWei-Li/docsify/compare/v1.10.5...v2.0.0) (2017-02-05)
+# [2.0.0](https://github.com/QingWei-Li/docsify/compare/v1.10.5...v2.0.0) (February 5, 2017)
 
 
 ### Features
@@ -439,92 +439,92 @@
 
 
 <a name="1.10.5"></a>
-## [1.10.5](https://github.com/QingWei-Li/docsify/compare/v1.10.4...v1.10.5) (2017-01-28)
+## [1.10.5](https://github.com/QingWei-Li/docsify/compare/v1.10.4...v1.10.5) (January 28, 2017)
 
 
 
 <a name="1.10.4"></a>
-## [1.10.4](https://github.com/QingWei-Li/docsify/compare/v1.10.3...v1.10.4) (2017-01-27)
+## [1.10.4](https://github.com/QingWei-Li/docsify/compare/v1.10.3...v1.10.4) (January 27, 2017)
 
 
 
 <a name="1.10.3"></a>
-## [1.10.3](https://github.com/QingWei-Li/docsify/compare/v1.10.2...v1.10.3) (2017-01-27)
+## [1.10.3](https://github.com/QingWei-Li/docsify/compare/v1.10.2...v1.10.3) (January 27, 2017)
 
 
 
 <a name="1.10.2"></a>
-## [1.10.2](https://github.com/QingWei-Li/docsify/compare/v1.10.1...v1.10.2) (2017-01-25)
+## [1.10.2](https://github.com/QingWei-Li/docsify/compare/v1.10.1...v1.10.2) (January 25, 2017)
 
 
 
 <a name="1.10.1"></a>
-## [1.10.1](https://github.com/QingWei-Li/docsify/compare/v1.10.0...v1.10.1) (2017-01-25)
+## [1.10.1](https://github.com/QingWei-Li/docsify/compare/v1.10.0...v1.10.1) (January 25, 2017)
 
 
 
 <a name="1.10.0"></a>
-# [1.10.0](https://github.com/QingWei-Li/docsify/compare/v1.9.0...v1.10.0) (2017-01-25)
+# [1.10.0](https://github.com/QingWei-Li/docsify/compare/v1.9.0...v1.10.0) (January 25, 2017)
 
 
 
 <a name="1.9.0"></a>
-# [1.9.0](https://github.com/QingWei-Li/docsify/compare/v1.8.0...v1.9.0) (2017-01-24)
+# [1.9.0](https://github.com/QingWei-Li/docsify/compare/v1.8.0...v1.9.0) (January 24, 2017)
 
 
 
 <a name="1.8.0"></a>
-# [1.8.0](https://github.com/QingWei-Li/docsify/compare/v1.7.4...v1.8.0) (2017-01-24)
+# [1.8.0](https://github.com/QingWei-Li/docsify/compare/v1.7.4...v1.8.0) (January 24, 2017)
 
 
 
 <a name="1.7.4"></a>
-## [1.7.4](https://github.com/QingWei-Li/docsify/compare/v1.7.3...v1.7.4) (2017-01-13)
+## [1.7.4](https://github.com/QingWei-Li/docsify/compare/v1.7.3...v1.7.4) (January 13, 2017)
 
 
 
 <a name="1.7.3"></a>
-## [1.7.3](https://github.com/QingWei-Li/docsify/compare/v1.7.2...v1.7.3) (2017-01-13)
+## [1.7.3](https://github.com/QingWei-Li/docsify/compare/v1.7.2...v1.7.3) (January 13, 2017)
 
 
 
 <a name="1.7.2"></a>
-## [1.7.2](https://github.com/QingWei-Li/docsify/compare/v1.7.1...v1.7.2) (2017-01-12)
+## [1.7.2](https://github.com/QingWei-Li/docsify/compare/v1.7.1...v1.7.2) (January 12, 2017)
 
 
 
 <a name="1.7.1"></a>
-## [1.7.1](https://github.com/QingWei-Li/docsify/compare/v1.7.0...v1.7.1) (2017-01-12)
+## [1.7.1](https://github.com/QingWei-Li/docsify/compare/v1.7.0...v1.7.1) (January 12, 2017)
 
 
 
 <a name="1.7.0"></a>
-# [1.7.0](https://github.com/QingWei-Li/docsify/compare/v1.6.1...v1.7.0) (2017-01-12)
+# [1.7.0](https://github.com/QingWei-Li/docsify/compare/v1.6.1...v1.7.0) (January 12, 2017)
 
 
 
 <a name="1.6.1"></a>
-## [1.6.1](https://github.com/QingWei-Li/docsify/compare/v1.6.0...v1.6.1) (2017-01-10)
+## [1.6.1](https://github.com/QingWei-Li/docsify/compare/v1.6.0...v1.6.1) (January 10, 2017)
 
 
 
 <a name="1.6.0"></a>
-# [1.6.0](https://github.com/QingWei-Li/docsify/compare/v1.5.2...v1.6.0) (2017-01-10)
+# [1.6.0](https://github.com/QingWei-Li/docsify/compare/v1.5.2...v1.6.0) (January 10, 2017)
 
 
 
 <a name="1.5.2"></a>
-## [1.5.2](https://github.com/QingWei-Li/docsify/compare/v1.5.1...v1.5.2) (2017-01-10)
+## [1.5.2](https://github.com/QingWei-Li/docsify/compare/v1.5.1...v1.5.2) (January 10, 2017)
 
 
 
 <a name="1.5.1"></a>
-## [1.5.1](https://github.com/QingWei-Li/docsify/compare/v1.5.0...v1.5.1) (2017-01-09)
+## [1.5.1](https://github.com/QingWei-Li/docsify/compare/v1.5.0...v1.5.1) (January 9, 2017)
 
 
 
 <a name="1.5.0"></a>
-# [1.5.0](https://github.com/QingWei-Li/docsify/compare/v1.4.3...v1.5.0) (2017-01-04)
+# [1.5.0](https://github.com/QingWei-Li/docsify/compare/v1.4.3...v1.5.0) (January 4, 2017)
 
 
 ### Features
@@ -534,152 +534,152 @@
 
 
 <a name="1.4.3"></a>
-## [1.4.3](https://github.com/QingWei-Li/docsify/compare/v1.4.2...v1.4.3) (2017-01-01)
+## [1.4.3](https://github.com/QingWei-Li/docsify/compare/v1.4.2...v1.4.3) (January 1, 2017)
 
 
 
 <a name="1.4.2"></a>
-## [1.4.2](https://github.com/QingWei-Li/docsify/compare/v1.4.1...v1.4.2) (2016-12-31)
+## [1.4.2](https://github.com/QingWei-Li/docsify/compare/v1.4.1...v1.4.2) (December 31, 2016)
 
 
 
 <a name="1.4.1"></a>
-## [1.4.1](https://github.com/QingWei-Li/docsify/compare/v1.4.0...v1.4.1) (2016-12-31)
+## [1.4.1](https://github.com/QingWei-Li/docsify/compare/v1.4.0...v1.4.1) (December 31, 2016)
 
 
 
 <a name="1.4.0"></a>
-# [1.4.0](https://github.com/QingWei-Li/docsify/compare/v1.3.5...v1.4.0) (2016-12-31)
+# [1.4.0](https://github.com/QingWei-Li/docsify/compare/v1.3.5...v1.4.0) (December 31, 2016)
 
 
 
 <a name="1.3.5"></a>
-## [1.3.5](https://github.com/QingWei-Li/docsify/compare/v1.3.4...v1.3.5) (2016-12-25)
+## [1.3.5](https://github.com/QingWei-Li/docsify/compare/v1.3.4...v1.3.5) (December 25, 2016)
 
 
 
 <a name="1.3.4"></a>
-## [1.3.4](https://github.com/QingWei-Li/docsify/compare/v1.3.3...v1.3.4) (2016-12-25)
+## [1.3.4](https://github.com/QingWei-Li/docsify/compare/v1.3.3...v1.3.4) (December 25, 2016)
 
 
 
 <a name="1.3.3"></a>
-## [1.3.3](https://github.com/QingWei-Li/docsify/compare/v1.3.2...v1.3.3) (2016-12-23)
+## [1.3.3](https://github.com/QingWei-Li/docsify/compare/v1.3.2...v1.3.3) (December 23, 2016)
 
 
 
 <a name="1.3.2"></a>
-## [1.3.2](https://github.com/QingWei-Li/docsify/compare/v1.3.1...v1.3.2) (2016-12-22)
+## [1.3.2](https://github.com/QingWei-Li/docsify/compare/v1.3.1...v1.3.2) (December 22, 2016)
 
 
 
 <a name="1.3.1"></a>
-## [1.3.1](https://github.com/QingWei-Li/docsify/compare/v1.3.0...v1.3.1) (2016-12-22)
+## [1.3.1](https://github.com/QingWei-Li/docsify/compare/v1.3.0...v1.3.1) (December 22, 2016)
 
 
 
 <a name="1.3.0"></a>
-# [1.3.0](https://github.com/QingWei-Li/docsify/compare/v1.2.0...v1.3.0) (2016-12-21)
+# [1.3.0](https://github.com/QingWei-Li/docsify/compare/v1.2.0...v1.3.0) (December 21, 2016)
 
 
 
 <a name="1.2.0"></a>
-# [1.2.0](https://github.com/QingWei-Li/docsify/compare/v1.1.7...v1.2.0) (2016-12-20)
+# [1.2.0](https://github.com/QingWei-Li/docsify/compare/v1.1.7...v1.2.0) (December 20, 2016)
 
 
 
 <a name="1.1.7"></a>
-## [1.1.7](https://github.com/QingWei-Li/docsify/compare/v1.1.6...v1.1.7) (2016-12-19)
+## [1.1.7](https://github.com/QingWei-Li/docsify/compare/v1.1.6...v1.1.7) (December 19, 2016)
 
 
 
 <a name="1.1.6"></a>
-## [1.1.6](https://github.com/QingWei-Li/docsify/compare/v1.1.5...v1.1.6) (2016-12-18)
+## [1.1.6](https://github.com/QingWei-Li/docsify/compare/v1.1.5...v1.1.6) (December 18, 2016)
 
 
 
 <a name="1.1.5"></a>
-## [1.1.5](https://github.com/QingWei-Li/docsify/compare/v1.1.4...v1.1.5) (2016-12-18)
+## [1.1.5](https://github.com/QingWei-Li/docsify/compare/v1.1.4...v1.1.5) (December 18, 2016)
 
 
 
 <a name="1.1.4"></a>
-## [1.1.4](https://github.com/QingWei-Li/docsify/compare/v1.1.3...v1.1.4) (2016-12-17)
+## [1.1.4](https://github.com/QingWei-Li/docsify/compare/v1.1.3...v1.1.4) (December 17, 2016)
 
 
 
 <a name="1.1.3"></a>
-## [1.1.3](https://github.com/QingWei-Li/docsify/compare/v1.1.2...v1.1.3) (2016-12-17)
+## [1.1.3](https://github.com/QingWei-Li/docsify/compare/v1.1.2...v1.1.3) (December 17, 2016)
 
 
 
 <a name="1.1.2"></a>
-## [1.1.2](https://github.com/QingWei-Li/docsify/compare/v1.1.1...v1.1.2) (2016-12-17)
+## [1.1.2](https://github.com/QingWei-Li/docsify/compare/v1.1.1...v1.1.2) (December 17, 2016)
 
 
 
 <a name="1.1.1"></a>
-## [1.1.1](https://github.com/QingWei-Li/docsify/compare/v1.1.0...v1.1.1) (2016-12-17)
+## [1.1.1](https://github.com/QingWei-Li/docsify/compare/v1.1.0...v1.1.1) (December 17, 2016)
 
 
 
 <a name="1.1.0"></a>
-# [1.1.0](https://github.com/QingWei-Li/docsify/compare/v1.0.3...v1.1.0) (2016-12-16)
+# [1.1.0](https://github.com/QingWei-Li/docsify/compare/v1.0.3...v1.1.0) (December 16, 2016)
 
 
 
 <a name="1.0.3"></a>
-## [1.0.3](https://github.com/QingWei-Li/docsify/compare/v1.0.2...v1.0.3) (2016-12-13)
+## [1.0.3](https://github.com/QingWei-Li/docsify/compare/v1.0.2...v1.0.3) (December 13, 2016)
 
 
 
 <a name="1.0.2"></a>
-## [1.0.2](https://github.com/QingWei-Li/docsify/compare/v1.0.1...v1.0.2) (2016-12-13)
+## [1.0.2](https://github.com/QingWei-Li/docsify/compare/v1.0.1...v1.0.2) (December 13, 2016)
 
 
 
 <a name="1.0.1"></a>
-## [1.0.1](https://github.com/QingWei-Li/docsify/compare/v1.0.0...v1.0.1) (2016-12-08)
+## [1.0.1](https://github.com/QingWei-Li/docsify/compare/v1.0.0...v1.0.1) (December 8, 2016)
 
 
 
 <a name="1.0.0"></a>
-# [1.0.0](https://github.com/QingWei-Li/docsify/compare/v0.7.0...v1.0.0) (2016-12-08)
+# [1.0.0](https://github.com/QingWei-Li/docsify/compare/v0.7.0...v1.0.0) (December 8, 2016)
 
 
 
 <a name="0.7.0"></a>
-# [0.7.0](https://github.com/QingWei-Li/docsify/compare/v0.6.1...v0.7.0) (2016-11-30)
+# [0.7.0](https://github.com/QingWei-Li/docsify/compare/v0.6.1...v0.7.0) (November 30, 2016)
 
 
 
 <a name="0.6.1"></a>
-## [0.6.1](https://github.com/QingWei-Li/docsify/compare/v0.6.0...v0.6.1) (2016-11-29)
+## [0.6.1](https://github.com/QingWei-Li/docsify/compare/v0.6.0...v0.6.1) (November 29, 2016)
 
 
 
 <a name="0.6.0"></a>
-# [0.6.0](https://github.com/QingWei-Li/docsify/compare/v0.5.0...v0.6.0) (2016-11-29)
+# [0.6.0](https://github.com/QingWei-Li/docsify/compare/v0.5.0...v0.6.0) (November 29, 2016)
 
 
 
 <a name="0.5.0"></a>
-# [0.5.0](https://github.com/QingWei-Li/docsify/compare/v0.4.2...v0.5.0) (2016-11-28)
+# [0.5.0](https://github.com/QingWei-Li/docsify/compare/v0.4.2...v0.5.0) (November 28, 2016)
 
 
 
 <a name="0.4.2"></a>
-## [0.4.2](https://github.com/QingWei-Li/docsify/compare/v0.4.1...v0.4.2) (2016-11-28)
+## [0.4.2](https://github.com/QingWei-Li/docsify/compare/v0.4.1...v0.4.2) (November 28, 2016)
 
 
 
 <a name="0.4.1"></a>
-## [0.4.1](https://github.com/QingWei-Li/docsify/compare/v0.4.0...v0.4.1) (2016-11-28)
+## [0.4.1](https://github.com/QingWei-Li/docsify/compare/v0.4.0...v0.4.1) (November 28, 2016)
 
 
 
 <a name="0.4.0"></a>
-# [0.4.0](https://github.com/QingWei-Li/docsify/compare/v0.3.1...v0.4.0) (2016-11-27)
+# [0.4.0](https://github.com/QingWei-Li/docsify/compare/v0.3.1...v0.4.0) (November 27, 2016)
 
 
 ### Features
@@ -689,49 +689,49 @@
 
 
 <a name="0.3.1"></a>
-## [0.3.1](https://github.com/QingWei-Li/docsify/compare/v0.3.0...v0.3.1) (2016-11-27)
+## [0.3.1](https://github.com/QingWei-Li/docsify/compare/v0.3.0...v0.3.1) (November 27, 2016)
 
 
 
 <a name="0.3.0"></a>
-# [0.3.0](https://github.com/QingWei-Li/docsify/compare/v0.2.1...v0.3.0) (2016-11-27)
+# [0.3.0](https://github.com/QingWei-Li/docsify/compare/v0.2.1...v0.3.0) (November 27, 2016)
 
 
 
 <a name="0.2.1"></a>
-## [0.2.1](https://github.com/QingWei-Li/docsify/compare/v0.2.0...v0.2.1) (2016-11-26)
+## [0.2.1](https://github.com/QingWei-Li/docsify/compare/v0.2.0...v0.2.1) (November 26, 2016)
 
 
 
 <a name="0.2.0"></a>
-# [0.2.0](https://github.com/QingWei-Li/docsify/compare/v0.1.0...v0.2.0) (2016-11-26)
+# [0.2.0](https://github.com/QingWei-Li/docsify/compare/v0.1.0...v0.2.0) (November 26, 2016)
 
 
 
 <a name="0.1.0"></a>
-# [0.1.0](https://github.com/QingWei-Li/docsify/compare/v0.0.5...v0.1.0) (2016-11-26)
+# [0.1.0](https://github.com/QingWei-Li/docsify/compare/v0.0.5...v0.1.0) (November 26, 2016)
 
 
 
 <a name="0.0.5"></a>
-## [0.0.5](https://github.com/QingWei-Li/docsify/compare/v0.0.4...v0.0.5) (2016-11-24)
+## [0.0.5](https://github.com/QingWei-Li/docsify/compare/v0.0.4...v0.0.5) (November 24, 2016)
 
 
 
 <a name="0.0.4"></a>
-## [0.0.4](https://github.com/QingWei-Li/docsify/compare/v0.0.3...v0.0.4) (2016-11-22)
+## [0.0.4](https://github.com/QingWei-Li/docsify/compare/v0.0.3...v0.0.4) (November 22, 2016)
 
 
 
 <a name="0.0.3"></a>
-## [0.0.3](https://github.com/QingWei-Li/docsify/compare/v0.0.2...v0.0.3) (2016-11-20)
+## [0.0.3](https://github.com/QingWei-Li/docsify/compare/v0.0.2...v0.0.3) (November 20, 2016)
 
 
 
 <a name="0.0.2"></a>
-## [0.0.2](https://github.com/QingWei-Li/docsify/compare/v0.0.1...v0.0.2) (2016-11-20)
+## [0.0.2](https://github.com/QingWei-Li/docsify/compare/v0.0.1...v0.0.2) (November 20, 2016)
 
 
 
 <a name="0.0.1"></a>
-## 0.0.1 (2016-11-20)
+## 0.0.1 (November 20, 2016)
