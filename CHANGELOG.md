@@ -1,4 +1,4 @@
-# [4.13.0](https://github.com/docsifyjs/docsify/compare/v4.12.4...v4.13.0) (2022-10-26)
+# [4.13.0](https://github.com/docsifyjs/docsify/compare/v4.12.4...v4.13.0) (October 26, 2022)
 
 
 ### Bug Fixes
@@ -23,7 +23,7 @@
 
 
 
-## [4.12.2](https://github.com/docsifyjs/docsify/compare/v4.12.1...v4.12.2) (2022-01-06)
+## [4.12.2](https://github.com/docsifyjs/docsify/compare/v4.12.1...v4.12.2) (January 6, 2022)
 
 
 ### Bug Fixes
@@ -50,7 +50,7 @@
 
 
 
-## [4.12.1](https://github.com/docsifyjs/docsify/compare/v4.12.0...v4.12.1) (2021-03-07)
+## [4.12.1](https://github.com/docsifyjs/docsify/compare/v4.12.0...v4.12.1) (March 7, 2021)
 
 
 ### Bug Fixes
@@ -73,7 +73,7 @@
 - Add test cases on isExternal ([#1515](https://github.com/docsifyjs/docsify/issues/1515))
 
 
-# [4.12.0](https://github.com/docsifyjs/docsify/compare/v4.11.6...v4.12.0) (2021-02-08)
+# [4.12.0](https://github.com/docsifyjs/docsify/compare/v4.11.6...v4.12.0) (February 8, 2021)
 
 
 ### Bug Fixes
@@ -120,7 +120,7 @@
 
 
 
-## [4.11.6](https://github.com/docsifyjs/docsify/compare/v4.11.5...v4.11.6) (2020-08-22)
+## [4.11.6](https://github.com/docsifyjs/docsify/compare/v4.11.5...v4.11.6) (August 22, 2020)
 
 
 ### Bug Fixes
@@ -129,7 +129,7 @@
 
 
 
-## [4.11.5](https://github.com/docsifyjs/docsify/compare/v4.11.4...v4.11.5) (2020-08-21)
+## [4.11.5](https://github.com/docsifyjs/docsify/compare/v4.11.4...v4.11.5) (August 21, 2020)
 
 
 ### Bug Fixes
@@ -158,7 +158,7 @@
 
 
 
-## [4.11.4](https://github.com/docsifyjs/docsify/compare/v4.11.3...v4.11.4) (2020-06-18)
+## [4.11.4](https://github.com/docsifyjs/docsify/compare/v4.11.3...v4.11.4) (June 18, 2020)
 
 
 ### Bug Fixes
@@ -187,7 +187,7 @@
 
 
 
-## [4.11.3](https://github.com/docsifyjs/docsify/compare/v4.11.2...v4.11.3) (2020-03-24)
+## [4.11.3](https://github.com/docsifyjs/docsify/compare/v4.11.2...v4.11.3) (March 24, 2020)
 
 
 ### Bug Fixes
@@ -196,7 +196,7 @@
 
 
 
-## [4.11.2](https://github.com/docsifyjs/docsify/compare/v4.11.1...v4.11.2) (2020-03-09)
+## [4.11.2](https://github.com/docsifyjs/docsify/compare/v4.11.1...v4.11.2) (March 9, 2020)
 
 
 ### Bug Fixes
@@ -205,11 +205,11 @@
 
 
 
-## [4.11.1](https://github.com/docsifyjs/docsify/compare/v4.11.0...v4.11.1) (2020-03-09)
+## [4.11.1](https://github.com/docsifyjs/docsify/compare/v4.11.0...v4.11.1) (March 9, 2020)
 
 
 
-# [4.11.0](https://github.com/docsifyjs/docsify/compare/v4.10.2...v4.11.0) (2020-03-09)
+# [4.11.0](https://github.com/docsifyjs/docsify/compare/v4.10.2...v4.11.0) (March 9, 2020)
 
 
 ### Bug Fixes
@@ -264,11 +264,11 @@
 * added new linter config ([#1028](https://github.com/docsifyjs/docsify/pull/1028))
 
 
-## [4.10.2](https://github.com/docsifyjs/docsify/compare/v4.10.0...v4.10.2) (2019-12-16)
+## [4.10.2](https://github.com/docsifyjs/docsify/compare/v4.10.0...v4.10.2) (December 16, 2019)
 
 
 
-# [4.10.0](https://github.com/docsifyjs/docsify/compare/v4.9.4...v4.10.0) (2019-12-16)
+# [4.10.0](https://github.com/docsifyjs/docsify/compare/v4.9.4...v4.10.0) (December 16, 2019)
 
 
 ### Bug Fixes
@@ -281,12 +281,12 @@
 
 
 <a name="4.9.4"></a>
-## [4.9.4](https://github.com/docsifyjs/docsify/compare/v4.9.2...v4.9.4) (2019-05-05)
+## [4.9.4](https://github.com/docsifyjs/docsify/compare/v4.9.2...v4.9.4) (May 5, 2019)
 
 
 
 <a name="4.9.2"></a>
-## [4.9.2](https://github.com/docsifyjs/docsify/compare/v4.9.1...v4.9.2) (2019-04-21)
+## [4.9.2](https://github.com/docsifyjs/docsify/compare/v4.9.1...v4.9.2) (April 21, 2019)
 
 
 ### Bug Fixes
@@ -301,7 +301,7 @@
 
 
 <a name="4.9.1"></a>
-## [4.9.1](https://github.com/docsifyjs/docsify/compare/v4.9.0...v4.9.1) (2019-02-21)
+## [4.9.1](https://github.com/docsifyjs/docsify/compare/v4.9.0...v4.9.1) (February 21, 2019)
 
 
 ### Bug Fixes
@@ -311,7 +311,7 @@
 
 
 <a name="4.9.0"></a>
-# [4.9.0](https://github.com/docsifyjs/docsify/compare/v4.8.6...v4.9.0) (2019-02-19)
+# [4.9.0](https://github.com/docsifyjs/docsify/compare/v4.8.6...v4.9.0) (February 19, 2019)
 
 
 ### Bug Fixes
@@ -329,7 +329,7 @@
 
 
 <a name="4.8.6"></a>
-## [4.8.6](https://github.com/docsifyjs/docsify/compare/v4.8.5...v4.8.6) (2018-11-12)
+## [4.8.6](https://github.com/docsifyjs/docsify/compare/v4.8.5...v4.8.6) (November 12, 2018)
 
 
 ### Bug Fixes
@@ -339,7 +339,7 @@
 
 
 <a name="4.8.5"></a>
-## [4.8.5](https://github.com/docsifyjs/docsify/compare/v4.8.4...v4.8.5) (2018-11-02)
+## [4.8.5](https://github.com/docsifyjs/docsify/compare/v4.8.4...v4.8.5) (November 2, 2018)
 
 
 ### Bug Fixes
@@ -349,7 +349,7 @@
 
 
 <a name="4.8.4"></a>
-## [4.8.4](https://github.com/docsifyjs/docsify/compare/v4.8.3...v4.8.4) (2018-11-01)
+## [4.8.4](https://github.com/docsifyjs/docsify/compare/v4.8.3...v4.8.4) (November 1, 2018)
 
 
 ### Bug Fixes
@@ -360,13 +360,13 @@
 
 <a name="4.8.3"></a>
 
-## [4.8.3](https://github.com/docsifyjs/docsify/compare/v4.8.2...v4.8.3) (2018-11-01)
+## [4.8.3](https://github.com/docsifyjs/docsify/compare/v4.8.2...v4.8.3) (November 1, 2018)
 
 Fix the last release files has the old version marked...
 
 <a name="4.8.2"></a>
 
-## [4.8.2](https://github.com/docsifyjs/docsify/compare/v4.8.1...v4.8.2) (2018-11-01)
+## [4.8.2](https://github.com/docsifyjs/docsify/compare/v4.8.1...v4.8.2) (November 1, 2018)
 
 ### Bug Fixes
 
@@ -381,7 +381,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.8.1"></a>
 
-## [4.8.1](https://github.com/docsifyjs/docsify/compare/v4.8.0...v4.8.1) (2018-10-31)
+## [4.8.1](https://github.com/docsifyjs/docsify/compare/v4.8.0...v4.8.1) (October 31, 2018)
 
 ### Bug Fixes
 
@@ -395,7 +395,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.8.0"></a>
 
-# [4.8.0](https://github.com/docsifyjs/docsify/compare/v4.7.1...v4.8.0) (2018-10-31)
+# [4.8.0](https://github.com/docsifyjs/docsify/compare/v4.7.1...v4.8.0) (October 31, 2018)
 
 ### Bug Fixes
 
@@ -416,11 +416,11 @@ Fix the last release files has the old version marked...
 
 <a name="4.7.1"></a>
 
-## [4.7.1](https://github.com/docsifyjs/docsify/compare/v4.7.0...v4.7.1) (2018-08-30)
+## [4.7.1](https://github.com/docsifyjs/docsify/compare/v4.7.0...v4.7.1) (August 30, 2018)
 
 <a name="4.7.0"></a>
 
-# [4.7.0](https://github.com/QingWei-Li/docsify/compare/v4.6.9...v4.7.0) (2018-06-29)
+# [4.7.0](https://github.com/QingWei-Li/docsify/compare/v4.6.9...v4.7.0) (June 29, 2018)
 
 ### Bug Fixes
 
@@ -437,7 +437,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.10"></a>
 
-## [4.6.10](https://github.com/QingWei-Li/docsify/compare/v4.6.9...v4.6.10) (2018-03-25)
+## [4.6.10](https://github.com/QingWei-Li/docsify/compare/v4.6.9...v4.6.10) (March 25, 2018)
 
 ### Bug Fixes
 
@@ -445,7 +445,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.9"></a>
 
-## [4.6.9](https://github.com/QingWei-Li/docsify/compare/v4.6.8...v4.6.9) (2018-03-10)
+## [4.6.9](https://github.com/QingWei-Li/docsify/compare/v4.6.8...v4.6.9) (March 10, 2018)
 
 ### Bug Fixes
 
@@ -453,7 +453,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.8"></a>
 
-## [4.6.8](https://github.com/QingWei-Li/docsify/compare/v4.6.7...v4.6.8) (2018-03-06)
+## [4.6.8](https://github.com/QingWei-Li/docsify/compare/v4.6.7...v4.6.8) (March 6, 2018)
 
 ### Bug Fixes
 
@@ -461,7 +461,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.7"></a>
 
-## [4.6.7](https://github.com/QingWei-Li/docsify/compare/v4.6.6...v4.6.7) (2018-03-03)
+## [4.6.7](https://github.com/QingWei-Li/docsify/compare/v4.6.6...v4.6.7) (March 3, 2018)
 
 ### Bug Fixes
 
@@ -469,11 +469,11 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.6"></a>
 
-## [4.6.6](https://github.com/QingWei-Li/docsify/compare/v4.6.5...v4.6.6) (2018-03-03)
+## [4.6.6](https://github.com/QingWei-Li/docsify/compare/v4.6.5...v4.6.6) (March 3, 2018)
 
 <a name="4.6.5"></a>
 
-## [4.6.5](https://github.com/QingWei-Li/docsify/compare/v4.6.4...v4.6.5) (2018-03-03)
+## [4.6.5](https://github.com/QingWei-Li/docsify/compare/v4.6.4...v4.6.5) (March 3, 2018)
 
 ### Bug Fixes
 
@@ -485,7 +485,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.4"></a>
 
-## [4.6.4](https://github.com/QingWei-Li/docsify/compare/v4.6.3...v4.6.4) (2018-03-01)
+## [4.6.4](https://github.com/QingWei-Li/docsify/compare/v4.6.3...v4.6.4) (March 1, 2018)
 
 ### Bug Fixes
 
@@ -497,7 +497,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.3"></a>
 
-## [4.6.3](https://github.com/QingWei-Li/docsify/compare/v4.6.2...v4.6.3) (2018-02-15)
+## [4.6.3](https://github.com/QingWei-Li/docsify/compare/v4.6.2...v4.6.3) (February 15, 2018)
 
 ### Bug Fixes
 
@@ -505,7 +505,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.2"></a>
 
-## [4.6.2](https://github.com/QingWei-Li/docsify/compare/v4.6.1...v4.6.2) (2018-02-14)
+## [4.6.2](https://github.com/QingWei-Li/docsify/compare/v4.6.1...v4.6.2) (February 14, 2018)
 
 ### Bug Fixes
 
@@ -514,7 +514,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.1"></a>
 
-## [4.6.1](https://github.com/QingWei-Li/docsify/compare/v4.6.0...v4.6.1) (2018-02-12)
+## [4.6.1](https://github.com/QingWei-Li/docsify/compare/v4.6.0...v4.6.1) (February 12, 2018)
 
 ### Bug Fixes
 
@@ -523,7 +523,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.6.0"></a>
 
-# [4.6.0](https://github.com/QingWei-Li/docsify/compare/v4.5.9...v4.6.0) (2018-02-11)
+# [4.6.0](https://github.com/QingWei-Li/docsify/compare/v4.5.9...v4.6.0) (February 11, 2018)
 
 ### Bug Fixes
 
@@ -550,7 +550,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.9"></a>
 
-## [4.5.9](https://github.com/QingWei-Li/docsify/compare/v4.5.8...v4.5.9) (2018-02-07)
+## [4.5.9](https://github.com/QingWei-Li/docsify/compare/v4.5.8...v4.5.9) (February 7, 2018)
 
 ### Bug Fixes
 
@@ -558,7 +558,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.8"></a>
 
-## [4.5.8](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.8) (2018-02-07)
+## [4.5.8](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.8) (February 7, 2018)
 
 ### Bug Fixes
 
@@ -567,7 +567,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.7"></a>
 
-## [4.5.7](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.7) (2017-12-29)
+## [4.5.7](https://github.com/QingWei-Li/docsify/compare/v4.5.6...v4.5.7) (December 29, 2017)
 
 ### Features
 
@@ -575,7 +575,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.6"></a>
 
-## [4.5.6](https://github.com/QingWei-Li/docsify/compare/v4.5.3...v4.5.6) (2017-12-14)
+## [4.5.6](https://github.com/QingWei-Li/docsify/compare/v4.5.3...v4.5.6) (December 14, 2017)
 
 ### Bug Fixes
 
@@ -583,7 +583,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.5"></a>
 
-## [4.5.5](https://github.com/QingWei-Li/docsify/compare/v4.5.4...v4.5.5) (2017-11-30)
+## [4.5.5](https://github.com/QingWei-Li/docsify/compare/v4.5.4...v4.5.5) (November 30, 2017)
 
 ### Bug Fixes
 
@@ -591,7 +591,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.4"></a>
 
-## [4.5.4](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.4) (2017-11-29)
+## [4.5.4](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.4) (November 29, 2017)
 
 ### Bug Fixes
 
@@ -603,7 +603,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.3"></a>
 
-## [4.5.3](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.3) (2017-11-11)
+## [4.5.3](https://github.com/QingWei-Li/docsify/compare/v4.5.2...v4.5.3) (November 11, 2017)
 
 ### Features
 
@@ -611,7 +611,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.2"></a>
 
-## [4.5.2](https://github.com/QingWei-Li/docsify/compare/v4.5.1...v4.5.2) (2017-11-09)
+## [4.5.2](https://github.com/QingWei-Li/docsify/compare/v4.5.1...v4.5.2) (November 9, 2017)
 
 ### Features
 
@@ -619,7 +619,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.1"></a>
 
-## [4.5.1](https://github.com/QingWei-Li/docsify/compare/v4.5.0...v4.5.1) (2017-11-07)
+## [4.5.1](https://github.com/QingWei-Li/docsify/compare/v4.5.0...v4.5.1) (November 7, 2017)
 
 ### Features
 
@@ -627,7 +627,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.5.0"></a>
 
-# [4.5.0](https://github.com/QingWei-Li/docsify/compare/v4.4.1...v4.5.0) (2017-11-04)
+# [4.5.0](https://github.com/QingWei-Li/docsify/compare/v4.4.1...v4.5.0) (November 4, 2017)
 
 ### Features
 
@@ -635,7 +635,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.4.1"></a>
 
-## [4.4.1](https://github.com/QingWei-Li/docsify/compare/v4.4.0...v4.4.1) (2017-10-31)
+## [4.4.1](https://github.com/QingWei-Li/docsify/compare/v4.4.0...v4.4.1) (October 31, 2017)
 
 ### Bug Fixes
 
@@ -644,7 +644,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.4.0"></a>
 
-# [4.4.0](https://github.com/QingWei-Li/docsify/compare/v4.3.15...v4.4.0) (2017-10-30)
+# [4.4.0](https://github.com/QingWei-Li/docsify/compare/v4.3.15...v4.4.0) (October 30, 2017)
 
 ### Bug Fixes
 
@@ -656,7 +656,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.15"></a>
 
-## [4.3.15](https://github.com/QingWei-Li/docsify/compare/v4.3.14...v4.3.15) (2017-10-20)
+## [4.3.15](https://github.com/QingWei-Li/docsify/compare/v4.3.14...v4.3.15) (October 20, 2017)
 
 ### Bug Fixes
 
@@ -664,7 +664,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.14"></a>
 
-## [4.3.14](https://github.com/QingWei-Li/docsify/compare/v4.3.13...v4.3.14) (2017-10-20)
+## [4.3.14](https://github.com/QingWei-Li/docsify/compare/v4.3.13...v4.3.14) (October 20, 2017)
 
 ### Bug Fixes
 
@@ -672,7 +672,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.13"></a>
 
-## [4.3.13](https://github.com/QingWei-Li/docsify/compare/v4.3.12...v4.3.13) (2017-10-17)
+## [4.3.13](https://github.com/QingWei-Li/docsify/compare/v4.3.12...v4.3.13) (October 17, 2017)
 
 ### Bug Fixes
 
@@ -684,7 +684,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.12"></a>
 
-## [4.3.12](https://github.com/QingWei-Li/docsify/compare/v4.3.11...v4.3.12) (2017-10-15)
+## [4.3.12](https://github.com/QingWei-Li/docsify/compare/v4.3.11...v4.3.12) (October 15, 2017)
 
 ### Bug Fixes
 
@@ -692,7 +692,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.11"></a>
 
-## [4.3.11](https://github.com/QingWei-Li/docsify/compare/v4.3.10...v4.3.11) (2017-10-15)
+## [4.3.11](https://github.com/QingWei-Li/docsify/compare/v4.3.10...v4.3.11) (October 15, 2017)
 
 ### Bug Fixes
 
@@ -700,7 +700,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.10"></a>
 
-## [4.3.10](https://github.com/QingWei-Li/docsify/compare/v4.3.9...v4.3.10) (2017-10-12)
+## [4.3.10](https://github.com/QingWei-Li/docsify/compare/v4.3.9...v4.3.10) (October 12, 2017)
 
 ### Bug Fixes
 
@@ -708,7 +708,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.9"></a>
 
-## [4.3.9](https://github.com/QingWei-Li/docsify/compare/v4.3.8...v4.3.9) (2017-10-11)
+## [4.3.9](https://github.com/QingWei-Li/docsify/compare/v4.3.8...v4.3.9) (October 11, 2017)
 
 ### Bug Fixes
 
@@ -716,7 +716,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.8"></a>
 
-## [4.3.8](https://github.com/QingWei-Li/docsify/compare/v4.3.7...v4.3.8) (2017-10-07)
+## [4.3.8](https://github.com/QingWei-Li/docsify/compare/v4.3.7...v4.3.8) (October 7, 2017)
 
 ### Bug Fixes
 
@@ -724,7 +724,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.7"></a>
 
-## [4.3.7](https://github.com/QingWei-Li/docsify/compare/v4.3.6...v4.3.7) (2017-10-02)
+## [4.3.7](https://github.com/QingWei-Li/docsify/compare/v4.3.6...v4.3.7) (October 2, 2017)
 
 ### Bug Fixes
 
@@ -732,7 +732,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.6"></a>
 
-## [4.3.6](https://github.com/QingWei-Li/docsify/compare/v4.3.5...v4.3.6) (2017-09-21)
+## [4.3.6](https://github.com/QingWei-Li/docsify/compare/v4.3.5...v4.3.6) (September 21, 2017)
 
 ### Bug Fixes
 
@@ -740,7 +740,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.5"></a>
 
-## [4.3.5](https://github.com/QingWei-Li/docsify/compare/v4.3.4...v4.3.5) (2017-09-20)
+## [4.3.5](https://github.com/QingWei-Li/docsify/compare/v4.3.4...v4.3.5) (September 20, 2007)
 
 ### Bug Fixes
 
@@ -752,7 +752,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.4"></a>
 
-## [4.3.4](https://github.com/QingWei-Li/docsify/compare/v4.3.3...v4.3.4) (2017-09-07)
+## [4.3.4](https://github.com/QingWei-Li/docsify/compare/v4.3.3...v4.3.4) (September 7, 2017)
 
 ### Bug Fixes
 
@@ -760,7 +760,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.3"></a>
 
-## [4.3.3](https://github.com/QingWei-Li/docsify/compare/v4.3.2...v4.3.3) (2017-09-06)
+## [4.3.3](https://github.com/QingWei-Li/docsify/compare/v4.3.2...v4.3.3) (September 6, 2017)
 
 ### Bug Fixes
 
@@ -772,7 +772,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.2"></a>
 
-## [4.3.2](https://github.com/QingWei-Li/docsify/compare/v4.3.1...v4.3.2) (2017-09-01)
+## [4.3.2](https://github.com/QingWei-Li/docsify/compare/v4.3.1...v4.3.2) (September 1, 2017)
 
 ### Bug Fixes
 
@@ -784,7 +784,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.1"></a>
 
-## [4.3.1](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.1) (2017-08-30)
+## [4.3.1](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.1) (August 30, 2017)
 
 ### Features
 
@@ -792,7 +792,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.3.0"></a>
 
-# [4.3.0](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.0) (2017-08-17)
+# [4.3.0](https://github.com/QingWei-Li/docsify/compare/v4.2.9...v4.3.0) (August 17, 2017)
 
 ### Features
 
@@ -800,7 +800,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.9"></a>
 
-## [4.2.9](https://github.com/QingWei-Li/docsify/compare/v4.2.8...v4.2.9) (2017-08-15)
+## [4.2.9](https://github.com/QingWei-Li/docsify/compare/v4.2.8...v4.2.9) (August 15, 2017)
 
 ### Bug Fixes
 
@@ -808,7 +808,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.8"></a>
 
-## [4.2.8](https://github.com/QingWei-Li/docsify/compare/v4.2.7...v4.2.8) (2017-08-10)
+## [4.2.8](https://github.com/QingWei-Li/docsify/compare/v4.2.7...v4.2.8) (August 10, 2017)
 
 ### Features
 
@@ -816,7 +816,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.7"></a>
 
-## [4.2.7](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.7) (2017-08-05)
+## [4.2.7](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.7) (August 5, 2017)
 
 ### Bug Fixes
 
@@ -825,7 +825,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.6"></a>
 
-## [4.2.6](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.6) (2017-07-27)
+## [4.2.6](https://github.com/QingWei-Li/docsify/compare/v4.2.4...v4.2.6) (July 27, 2017)
 
 ### Bug Fixes
 
@@ -834,7 +834,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.4"></a>
 
-## [4.2.4](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.4) (2017-07-26)
+## [4.2.4](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.4) (July 26, 2017)
 
 ### Bug Fixes
 
@@ -842,7 +842,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.3"></a>
 
-## [4.2.3](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.3) (2017-07-26)
+## [4.2.3](https://github.com/QingWei-Li/docsify/compare/v4.2.2...v4.2.3) (July 26, 2017)
 
 ### Features
 
@@ -850,7 +850,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.2"></a>
 
-## [4.2.2](https://github.com/QingWei-Li/docsify/compare/v4.2.1...v4.2.2) (2017-07-24)
+## [4.2.2](https://github.com/QingWei-Li/docsify/compare/v4.2.1...v4.2.2) (July 24, 2017)
 
 ### Bug Fixes
 
@@ -858,14 +858,14 @@ Fix the last release files has the old version marked...
 
 <a name="4.2.1"></a>
 
-## [4.2.1](https://github.com/QingWei-Li/docsify/compare/v4.2.0...v4.2.1) (2017-07-19)
+## [4.2.1](https://github.com/QingWei-Li/docsify/compare/v4.2.0...v4.2.1) (July 19, 2017)
 
 - give the navbar some line-height (#216)
 - Remove unnecessary moduleName option from rollup config for plugins (#209)
 
 <a name="4.2.0"></a>
 
-# [4.2.0](https://github.com/QingWei-Li/docsify/compare/v4.1.14...v4.2.0) (2017-07-10)
+# [4.2.0](https://github.com/QingWei-Li/docsify/compare/v4.1.14...v4.2.0) (July 10, 2017)
 
 ### Bug Fixes
 
@@ -878,7 +878,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.14"></a>
 
-## [4.1.14](https://github.com/QingWei-Li/docsify/compare/v4.1.13...v4.1.14) (2017-06-24)
+## [4.1.14](https://github.com/QingWei-Li/docsify/compare/v4.1.13...v4.1.14) (June 24, 2017)
 
 ### Bug Fixes
 
@@ -890,11 +890,11 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.13"></a>
 
-## [4.1.13](https://github.com/QingWei-Li/docsify/compare/v4.1.12...v4.1.13) (2017-06-11)
+## [4.1.13](https://github.com/QingWei-Li/docsify/compare/v4.1.12...v4.1.13) (June 11, 2017)
 
 <a name="4.1.12"></a>
 
-## [4.1.12](https://github.com/QingWei-Li/docsify/compare/v4.1.11...v4.1.12) (2017-06-03)
+## [4.1.12](https://github.com/QingWei-Li/docsify/compare/v4.1.11...v4.1.12) (June 3, 2017)
 
 ### Bug Fixes
 
@@ -902,7 +902,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.11"></a>
 
-## [4.1.11](https://github.com/QingWei-Li/docsify/compare/v4.1.10...v4.1.11) (2017-06-02)
+## [4.1.11](https://github.com/QingWei-Li/docsify/compare/v4.1.10...v4.1.11) (June 2, 2017)
 
 ### Bug Fixes
 
@@ -911,7 +911,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.10"></a>
 
-## [4.1.10](https://github.com/QingWei-Li/docsify/compare/v4.1.9...v4.1.10) (2017-06-02)
+## [4.1.10](https://github.com/QingWei-Li/docsify/compare/v4.1.9...v4.1.10) (June 2, 2017)
 
 ### Bug Fixes
 
@@ -919,7 +919,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.9"></a>
 
-## [4.1.9](https://github.com/QingWei-Li/docsify/compare/v4.1.8...v4.1.9) (2017-05-31)
+## [4.1.9](https://github.com/QingWei-Li/docsify/compare/v4.1.8...v4.1.9) (May 31, 2017)
 
 ### Bug Fixes
 
@@ -929,7 +929,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.8"></a>
 
-## [4.1.8](https://github.com/QingWei-Li/docsify/compare/v4.1.7...v4.1.8) (2017-05-31)
+## [4.1.8](https://github.com/QingWei-Li/docsify/compare/v4.1.7...v4.1.8) (May 31, 2017)
 
 ### Bug Fixes
 
@@ -943,7 +943,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.7"></a>
 
-## [4.1.7](https://github.com/QingWei-Li/docsify/compare/v4.1.6...v4.1.7) (2017-05-30)
+## [4.1.7](https://github.com/QingWei-Li/docsify/compare/v4.1.6...v4.1.7) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -951,7 +951,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.6"></a>
 
-## [4.1.6](https://github.com/QingWei-Li/docsify/compare/v4.1.5...v4.1.6) (2017-05-30)
+## [4.1.6](https://github.com/QingWei-Li/docsify/compare/v4.1.5...v4.1.6) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -959,7 +959,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.5"></a>
 
-## [4.1.5](https://github.com/QingWei-Li/docsify/compare/v4.1.4...v4.1.5) (2017-05-30)
+## [4.1.5](https://github.com/QingWei-Li/docsify/compare/v4.1.4...v4.1.5) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -967,7 +967,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.4"></a>
 
-## [4.1.4](https://github.com/QingWei-Li/docsify/compare/v4.1.3...v4.1.4) (2017-05-30)
+## [4.1.4](https://github.com/QingWei-Li/docsify/compare/v4.1.3...v4.1.4) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -975,7 +975,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.3"></a>
 
-## [4.1.3](https://github.com/QingWei-Li/docsify/compare/v4.1.2...v4.1.3) (2017-05-30)
+## [4.1.3](https://github.com/QingWei-Li/docsify/compare/v4.1.2...v4.1.3) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -983,7 +983,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.2"></a>
 
-## [4.1.2](https://github.com/QingWei-Li/docsify/compare/v4.1.1...v4.1.2) (2017-05-30)
+## [4.1.2](https://github.com/QingWei-Li/docsify/compare/v4.1.1...v4.1.2) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -991,7 +991,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.1"></a>
 
-## [4.1.1](https://github.com/QingWei-Li/docsify/compare/v4.1.0...v4.1.1) (2017-05-30)
+## [4.1.1](https://github.com/QingWei-Li/docsify/compare/v4.1.0...v4.1.1) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -1000,11 +1000,11 @@ Fix the last release files has the old version marked...
 
 <a name="4.1.0"></a>
 
-# [4.1.0](https://github.com/QingWei-Li/docsify/compare/v4.0.2...v4.1.0) (2017-05-30)
+# [4.1.0](https://github.com/QingWei-Li/docsify/compare/v4.0.2...v4.1.0) (May 30, 2017)
 
 <a name="4.0.2"></a>
 
-## [4.0.2](https://github.com/QingWei-Li/docsify/compare/v4.0.1...v4.0.2) (2017-05-30)
+## [4.0.2](https://github.com/QingWei-Li/docsify/compare/v4.0.1...v4.0.2) (May 30, 2017)
 
 ### Bug Fixes
 
@@ -1012,7 +1012,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.0.1"></a>
 
-## [4.0.1](https://github.com/QingWei-Li/docsify/compare/v4.0.0...v4.0.1) (2017-05-29)
+## [4.0.1](https://github.com/QingWei-Li/docsify/compare/v4.0.0...v4.0.1) (May 29, 2017)
 
 ### Bug Fixes
 
@@ -1021,7 +1021,7 @@ Fix the last release files has the old version marked...
 
 <a name="4.0.0"></a>
 
-# [4.0.0](https://github.com/QingWei-Li/docsify/compare/v3.7.3...v4.0.0) (2017-05-29)
+# [4.0.0](https://github.com/QingWei-Li/docsify/compare/v3.7.3...v4.0.0) (May 29, 2017)
 
 ### Bug Fixes
 
